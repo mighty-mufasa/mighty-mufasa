@@ -1,7 +1,6 @@
 <div>
     <h1>Senior Frontend Developer</h1>
     <p>Having 6 years of experience developing websites and NFT marketplaces.</p>
-    <img src="./image.jpg" alt="mufasa image">
 </div>
 <!---
 mighty-mufasa/mighty-mufasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
